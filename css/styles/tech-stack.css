@@ -1,0 +1,80 @@
+.cpp{--border-color:#00599C;}
+.java{--border-color:#ED8B00;}
+.php{--border-color:#777BB4;}
+.python{--border-color:#3776AB;}
+.bootstrap{--border-color:#7952B3;}
+.laravel{--border-color:#FF2D20;}
+.livewire{--border-color:#FB70A9;}
+.nodejs{--border-color:#5FA04E;}
+.tailwind{--border-color:#06B6D4;}
+.mysql{--border-color:#4479A1;}
+.postgres{--border-color:#336791;}
+.sqlite{--border-color:#003B57;}
+.git{--border-color:#F05032;}
+.github{--border-color:#24292F;}
+.figma{--border-color:#F24E1E;}
+.postman{--border-color:#FF6C37;}
+.trello{--border-color:#0079BF;}
+
+.tech-stack{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:15px;
+    margin-top:40px;
+}
+
+.tech-item{
+    display:flex !important;
+    align-items:center !important;
+    gap:10px !important;
+    padding:12px 22px !important;
+    border:2px solid var(--border-color) !important;
+    border-radius:12px !important;
+    background:#fff !important;
+    color:var(--border-color) !important;
+    font-weight:600 !important;
+    transition:all .25s ease !important;
+    cursor:default !important;
+}
+
+.tech-item i{
+    font-size:24px !important;
+}
+
+.tech-item:hover{
+    transform:translateY(-5px) !important;
+    background:var(--border-color) !important;
+    border-color:var(--border-color) !important;
+    color:#fff !important;
+    box-shadow:0 8px 20px rgba(0,0,0,.12) !important;
+}
+
+.tech-item:hover span{
+    color:#fff !important;
+}
+
+.tech-item:hover i{
+    color:#fff !important;
+}
+
+.tech-item{
+    animation:float 4s ease-in-out infinite;
+}
+
+.tech-item:nth-child(even){
+    animation-delay:.5s;
+}
+
+.tech-item:nth-child(3n){
+    animation-delay:1s;
+}
+
+@keyframes float{
+    0%,100%{
+        transform:translateY(0);
+    }
+    50%{
+        transform:translateY(-5px);
+    }
+}

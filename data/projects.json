@@ -1,0 +1,271 @@
+[
+  {
+    "id": "budgetin",
+    "title": "BudgetIn",
+    "category": "Full Stack",
+    "year": "2026",
+    "thumbnail": "images/projects/budgetin/budgetin.png",
+    "description": "A personal finance tracker application with budgeting, investment tracking, and financial reports to help users manage their finances effectively.",
+    "technologies": ["Laravel", "Livewire", "Bootstrap", "MySQL"],
+    "featured": true
+  },
+  {
+    "id": "homograph-phishing-url-detection",
+    "title": "Homograph & Phishing URL Detection",
+    "category": "Machine Learning",
+    "year": "2026",
+    "thumbnail": "images/projects/homograph/homograph.png",
+    "description": "Machine learning system for detecting legitimate, phishing, and homograph attack URLs. The project uses advanced feature engineering such as entropy, punycode detection, script mixing, and statistical URL analysis combined with models like Logistic Regression, Random Forest, XGBoost, and CatBoost.",
+    "technologies": ["Python", "Pandas", "Scikit-learn", "XGBoost", "CatBoost", "Matplotlib", "Seaborn"],
+    "featured": true
+  },
+  {
+    "id": "dclassics-books",
+    "title": "D’Classics Books",
+    "category": "Mobile App",
+    "year": "2026",
+    "thumbnail": "images/projects/dclassic/dclassic.png",
+    "description": "D’Classics Books is a mobile application designed in Figma and implemented using Android Studio prototype concepts. It provides a curated platform for classic literature enthusiasts to browse, purchase, and manage books. The app includes login authentication flow, home dashboard with featured books and carousel store previews, categorized book listings, detailed book ordering system with validation, and store directory navigation.",
+    "technologies": ["Figma", "Android Studio", "UI/UX Design", "Prototyping", "Material Design", "Mobile App Design"],
+    "featured": true
+  },
+  {
+    "id": "fanbot-whatsapp-bot",
+    "title": "Fanbot - WhatsApp Automation Bot",
+    "category": "Automation",
+    "year": "2026",
+    "thumbnail": "images/projects/fanbot/fanbot.png",
+    "description": "Fanbot is a WhatsApp automation bot built using Node.js and Baileys library. It supports real-time messaging, automatic reply handling, pairing code authentication, and smart response logic based on time conditions (e.g., sleep mode auto-reply).",
+    "technologies": ["Node.js", "Baileys", "WhatsApp API", "Automation Bot"],
+    "featured": true
+  },
+    {
+        "id": "music-recommendation-system",
+        "title": "SONGIFY: Music Recommendation System",
+        "category": "Machine Learning",
+        "year": "2026",
+        "thumbnail": "images/projects/songify/songify.png",
+        "description": "A content-based music recommendation system built with Python using Cosine Similarity to recommend songs based on their feature similarity. The project includes data preprocessing, feature engineering, similarity matrix generation, and personalized music recommendations for users.",
+        "technologies": [
+            "Python",
+            "Pandas",
+            "Scikit-learn",
+            "Cosine Similarity",
+            "Machine Learning",
+            "Recommendation System"
+        ],
+        "featured": true
+    },
+  {
+    "id": "fasease-facility-management-system",
+    "title": "FasEase - Facility Borrowing System",
+    "category": "Full Stack",
+    "year": "2025",
+    "thumbnail": "images/projects/fasease/fasease.png",
+    "description": "Full-stack digital platform designed to automate and streamline facility borrowing processes in institutions, campuses, and organizations.",
+    "technologies": ["Web Development", "Full Stack", "Database Management", "UI/UX"],
+    "featured": true
+  },
+  {
+    "id": "palorant",
+    "title": "Palorant Website",
+    "category": "Frontend",
+    "year": "2025",
+    "thumbnail": "images/projects/palorant/palorant.png",
+    "description": "Fully responsive gaming website built using HTML and CSS.",
+    "technologies": ["HTML", "CSS", "Responsive Design", "Flexbox", "Grid"],
+    "featured": true
+  },
+  {
+    "id": "jaksehat",
+    "title": "JakSehat Redesign",
+    "category": "UI/UX",
+    "year": "2025",
+    "thumbnail": "images/projects/jaksehat/jaksehat.png",
+    "description": "Redesign of a smart health application for Jakarta residents focusing on usability improvements.",
+    "technologies": ["Figma", "UI/UX", "Prototyping", "User Research"],
+    "featured": true
+  },
+  {
+    "id": "heartastic",
+    "title": "Heartastic",
+    "category": "Machine Learning",
+    "year": "2025",
+    "thumbnail": "images/projects/heartastic/heartastic.png",
+    "description": "Machine learning-based heart disease prediction system using XGBoost and Random Forest.",
+    "technologies": ["Python", "XGBoost", "Random Forest", "Optuna", "Machine Learning"],
+    "featured": true
+  },
+  {
+    "id": "solar-energy-harvester",
+    "title": "Solar Energy Harvester",
+    "category": "Frontend",
+    "year": "2025",
+    "thumbnail": "images/projects/solar-harvester/solar-harvester.png",
+    "description": "Physics-based educational game simulating solar energy harvesting.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Game Development", "Physics Simulation"],
+    "featured": true
+  },
+
+  {
+    "id": "velora-api-laravel",
+    "title": "Velora API (Laravel 8)",
+    "category": "Backend",
+    "year": "2024",
+    "thumbnail": "images/projects/velora/velora.png",
+    "description": "RESTful API for an e-commerce system built with Laravel 8.",
+    "technologies": ["Laravel 8", "PHP", "MySQL", "REST API", "Authentication", "MVC Architecture"],
+    "featured": true
+  },
+  {
+    "id": "velora-android-app",
+    "title": "Velora - Android E-Commerce App",
+    "category": "Mobile App",
+    "year": "2024",
+    "thumbnail": "images/projects/velora/bg_1.jpg",
+    "description": "Native Android e-commerce application built using Java and Retrofit.",
+    "technologies": ["Java", "Android Studio", "Retrofit", "REST API", "Mobile Development", "MVVM/MVC"],
+    "featured": true
+  },
+  {
+    "id": "repairx",
+    "title": "RepairX",
+    "category": "UI/UX",
+    "year": "2024",
+    "thumbnail": "images/projects/repairx/repairx.png",
+    "description": "UI/UX design prototype for home repair service platform.",
+    "technologies": ["Figma", "UI/UX Design", "User Research"],
+    "featured": true
+  },
+  {
+    "id": "student-kit",
+    "title": "Student Kit",
+    "category": "Android Application",
+    "year": "2023",
+    "featured": true,
+    "thumbnail": "images/projects/studentkit/studentkit.png",
+    "description": "An AI-powered Android application designed to support learning and productivity. It integrates the OpenAI API to provide intelligent chat, AI image generation, note management, and interactive quizzes, and was selected as part of the SEVIMA Scholarship Program.",
+    "technologies": [
+      "Java",
+      "Android Studio",
+      "OpenAI API",
+      "REST API",
+      "JSON",
+      "Material Design"
+    ],
+    "github": "https://github.com/yourusername/student-kit",
+    "demo": ""
+  },
+
+  {
+    "id": "madig-api",
+    "title": "Madig API",
+    "category": "Backend",
+    "year": "2023",
+    "thumbnail": "images/projects/madig-api/madig-api.png",
+    "description": "Backend REST API built using Laravel 8 for the KASA app.",
+    "technologies": ["Laravel", "REST API", "MySQL", "Back-End Development"],
+    "featured": true
+  },
+  {
+    "id": "kasa-app",
+    "title": "KASA (Karya Smenda)",
+    "category": "Mobile App",
+    "year": "2023",
+    "thumbnail": "images/projects/kasa/kasa.png",
+    "description": "School forum and digital magazine application built with Laravel and Android.",
+    "technologies": ["Laravel", "Android", "Java", "MySQL", "REST API"],
+    "featured": true
+  },
+  {
+    "id": "jmp-app",
+    "title": "To Do List - Junior Mobile Programmer Project",
+    "category": "Mobile App",
+    "year": "2023",
+    "thumbnail": "images/projects/jmp/jmp.png",
+    "description": "Simple CRUD-based Android application from Digital Talent Scholarship.",
+    "technologies": ["Android Studio", "Java", "CRUD", "SQLite"],
+    "featured": false
+  },
+  {
+    "id": "adventure-store-ecommerce",
+    "title": "Adventure Store - E-Commerce Web",
+    "category": "Full Stack",
+    "year": "2023",
+    "thumbnail": "images/projects/adventure-store/bg_1.jpg",
+    "description": "Full-stack e-commerce web application built with Laravel 8.",
+    "technologies": ["Laravel 8", "PHP", "MySQL", "JavaScript", "Full Stack Development"],
+    "featured": true
+  },
+  {
+    "id": "rock-paper-scissors-classification",
+    "title": "Rock Paper Scissors Image Classification",
+    "category": "Machine Learning",
+    "year": "2023",
+    "thumbnail": "images/projects/suit/suit.png",
+    "description": "Image classification project for rock-paper-scissors hand gestures.",
+    "technologies": ["Python", "TensorFlow", "Keras", "Deep Learning", "Computer Vision"],
+    "featured": true
+  },
+  {
+    "id": "lauwndrysmk-desktop-vb",
+    "title": "LaundrySMK Desktop App",
+    "category": "Desktop App",
+    "year": "2023",
+    "thumbnail": "images/projects/laundrysmk/bg_1.jpg",
+    "description": "Desktop app with CRUD, authentication, and cost calculation.",
+    "technologies": ["Visual Basic", ".NET", "Desktop App"],
+    "featured": false
+  },
+  {
+    "id": "bromo-airlines-desktop",
+    "title": "BromoAirlines",
+    "category": "Desktop App",
+    "year": "2023",
+    "thumbnail": "images/projects/bromo-airlines/bg_1.jpg",
+    "description": "Flight ticket booking and reservation system.",
+    "technologies": ["C#", ".NET", "Windows Forms"],
+    "featured": false
+  },
+  {
+    "id": "grandhotel-desktop",
+    "title": "GrandHotel",
+    "category": "Desktop App",
+    "year": "2023",
+    "thumbnail": "images/projects/grandhotel/bg_1.jpg",
+    "description": "Hotel management desktop application.",
+    "technologies": ["C#", ".NET", "Windows Forms"],
+    "featured": false
+  },
+  {
+    "id": "travel-ticket-reservation-desktop",
+    "title": "Travel Ticket Reservation",
+    "category": "Desktop App",
+    "year": "2023",
+    "thumbnail": "images/projects/travel-ticket/bg_1.jpg",
+    "description": "Travel ticket booking desktop system.",
+    "technologies": ["C#", ".NET", "Windows Forms"],
+    "featured": false
+  },
+
+  {
+    "id": "itb-pos-online",
+    "title": "ITB POS Online",
+    "category": "Desktop App",
+    "year": "2022",
+    "thumbnail": "images/projects/itb/itb.png",
+    "description": "Cashier application with offline-online sync using Java and PostgreSQL.",
+    "technologies": ["Java", "PostgreSQL", "Desktop Application", "Offline Sync"],
+    "featured": true
+  },
+  {
+    "id": "pizzastore-razorpages",
+    "title": "PizzaStore - Web Application",
+    "category": "Desktop App",
+    "year": "2022",
+    "thumbnail": "images/projects/pizzastore/bg_1.jpg",
+    "description": "Basic online pizza ordering system built with ASP.NET Razor Pages.",
+    "technologies": ["C#", "ASP.NET Razor Pages", "Entity Framework", "HTML", "CSS"],
+    "featured": true
+  }
+]

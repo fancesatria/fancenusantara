@@ -1,0 +1,56 @@
+.about-info a{
+    color:var(--accent);
+    font-weight:500;
+    text-decoration:none;
+    border-bottom:1px solid transparent;
+    transition:all .25s ease;
+}
+
+.about-info a:hover{
+    color:#111827;
+    border-bottom:1px solid var(--accent);
+}
+
+.btn-download{
+    display:inline-block;
+    padding:15px 25px;
+    border-radius:15px;
+    background:var(--accent);
+    border:2px solid var(--accent);
+    color:#fff;
+    font-size:16px;
+    font-weight:600;
+    line-height:1.2;
+    text-decoration:none;
+    transition:.3s;
+    text-transform:uppercase;
+    text-align: center;
+}
+
+.btn-download:hover{
+    background:#111827;
+    border-color:#111827;
+    color:#fff;
+    transform:translateY(-2px);
+}
+
+@media (max-width: 767.98px) {
+
+    .counter-wrap {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .counter-wrap .text {
+        width: 100%;
+    }
+
+    .counter-wrap .mb-4 {
+        text-align: center;
+    }
+
+    .counter-wrap p:last-child {
+        text-align: center;
+    }
+
+}
