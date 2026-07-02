@@ -1,4 +1,5 @@
 <title>Fance Satria Nusantara | Software Engineer & AI Enthusiast</title>
+<link rel="icon" type="image/png" href="<?= BASE_URL ?>images/logo1.png">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 

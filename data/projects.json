@@ -122,7 +122,7 @@
     "title": "Velora - Android E-Commerce App",
     "category": "Mobile App",
     "year": "2024",
-    "thumbnail": "images/projects/velora/bg_1.jpg",
+    "thumbnail": "images/projects/velora/velora-ec.png",
     "description": "Native Android e-commerce application built using Java and Retrofit.",
     "technologies": ["Java", "Android Studio", "Retrofit", "REST API", "Mobile Development", "MVVM/MVC"],
     "featured": true
@@ -140,7 +140,7 @@
   {
     "id": "student-kit",
     "title": "Student Kit",
-    "category": "Android Application",
+    "category": "Mobile App",
     "year": "2023",
     "featured": true,
     "thumbnail": "images/projects/studentkit/studentkit.png",
@@ -192,7 +192,7 @@
     "title": "Adventure Store - E-Commerce Web",
     "category": "Full Stack",
     "year": "2023",
-    "thumbnail": "images/projects/adventure-store/bg_1.jpg",
+    "thumbnail": "images/projects/adventure-store/adventure-store.png",
     "description": "Full-stack e-commerce web application built with Laravel 8.",
     "technologies": ["Laravel 8", "PHP", "MySQL", "JavaScript", "Full Stack Development"],
     "featured": true
@@ -208,11 +208,21 @@
     "featured": true
   },
   {
-    "id": "lauwndrysmk-desktop-vb",
-    "title": "LaundrySMK Desktop App",
+    "id": "library-desktop-csharp",
+    "title": "Library Management System",
     "category": "Desktop App",
     "year": "2023",
-    "thumbnail": "images/projects/laundrysmk/bg_1.jpg",
+    "thumbnail": "images/projects/library/library.png",
+    "description": "A desktop-based library management system for managing books, members, borrowing, and return transactions with an intuitive user interface.",
+    "technologies": ["C#", ".NET", "Windows Forms"],
+    "featured": false
+  },
+  {
+    "id": "lauwndrysmk-desktop-vb",
+    "title": "ESEMKA Laundry Desktop App",
+    "category": "Desktop App",
+    "year": "2023",
+    "thumbnail": "images/projects/laundry/laundry.png",
     "description": "Desktop app with CRUD, authentication, and cost calculation.",
     "technologies": ["Visual Basic", ".NET", "Desktop App"],
     "featured": false
@@ -222,7 +232,7 @@
     "title": "BromoAirlines",
     "category": "Desktop App",
     "year": "2023",
-    "thumbnail": "images/projects/bromo-airlines/bg_1.jpg",
+    "thumbnail": "images/projects/bromoairlines/bromoairlines.png",
     "description": "Flight ticket booking and reservation system.",
     "technologies": ["C#", ".NET", "Windows Forms"],
     "featured": false
@@ -232,7 +242,7 @@
     "title": "GrandHotel",
     "category": "Desktop App",
     "year": "2023",
-    "thumbnail": "images/projects/grandhotel/bg_1.jpg",
+    "thumbnail": "images/projects/grandhotel/grandhotel.png",
     "description": "Hotel management desktop application.",
     "technologies": ["C#", ".NET", "Windows Forms"],
     "featured": false
@@ -242,7 +252,7 @@
     "title": "Travel Ticket Reservation",
     "category": "Desktop App",
     "year": "2023",
-    "thumbnail": "images/projects/travel-ticket/bg_1.jpg",
+    "thumbnail": "images/projects/travel/travel.png",
     "description": "Travel ticket booking desktop system.",
     "technologies": ["C#", ".NET", "Windows Forms"],
     "featured": false
@@ -263,7 +273,7 @@
     "title": "PizzaStore - Web Application",
     "category": "Desktop App",
     "year": "2022",
-    "thumbnail": "images/projects/pizzastore/bg_1.jpg",
+    "thumbnail": "images/projects/pizza-store/pizza-store.png",
     "description": "Basic online pizza ordering system built with ASP.NET Razor Pages.",
     "technologies": ["C#", "ASP.NET Razor Pages", "Entity Framework", "HTML", "CSS"],
     "featured": true

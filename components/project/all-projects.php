@@ -30,6 +30,7 @@ include '../navbar.php';
             <button data-filter="Mobile App">Mobile App</button>
             <button data-filter="Desktop App">Desktop App</button>
             <button data-filter="Machine Learning">Machine Learning</button>
+            <button data-filter="Automation">Automation</button>
         </div>
 
         <div class="row" id="projects-container"></div>
