@@ -73,7 +73,7 @@
                         </p>
 
                         <p>
-                            <a href="assets/Fance_Satria_Nusantara_CV.pdf"
+                            <a href="files/CV_Fance_Satria_Nusantara.pdf"
                             class="btn-download"
                             download>
                                 Download CV

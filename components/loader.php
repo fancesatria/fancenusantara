@@ -1,4 +1,3 @@
-
 <div id="ftco-loader" class="show fullscreen">
     <svg class="circular" width="48px" height="48px">
         <circle class="path-bg"
@@ -41,3 +40,4 @@
 
 <script src="<?= BASE_URL ?>js/about.js"></script>
 <script src="<?= BASE_URL ?>js/main.js"></script>
+<script src="<?= BASE_URL ?>js/include.js"></script>

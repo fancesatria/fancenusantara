@@ -61,13 +61,13 @@
 
             <div class="col-md-6 col-lg-3 d-flex ftco-animate">
                 <div class="box text-center">
-                    <a href="https://fancesatria.dev" target="_blank"></a>
+                    <a href="https://fancenusantara.freedev.app/" target="_blank"></a>
                         <div class="icon d-flex align-items-center justify-content-center">
                             <span class="icon-globe"></span>
                         </div>
                         <h3>Portfolio</h3>
                         <p>
-                            fancesatria.dev
+                            fancenusantara.freedev.app
                         </p>
                     </a>
                 </div>
